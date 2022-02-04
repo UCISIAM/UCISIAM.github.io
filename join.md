@@ -21,6 +21,9 @@ permalink: /join/
 </p>
 
 ---
+## Start a Journal Club
+
+Are you interested in leading a journal club/reading group? Let us know your interest [here](https://docs.google.com/forms/d/e/1FAIpQLSc_q90lIOCvYkPAsmuykCvdQIbcPKqbxAM5ZVVSUE2xhqBiPQ/viewform?usp=sf_link)!
 
 ## Join UCI SIAM chapter
 
