@@ -22,11 +22,14 @@ permalink: /events/
 
 ---
 
+# Upcoming Events 
 
-# Events
+## Winter Social Event on March 1st, 5-6pm
 
-## Winter 2022 social
-Coming soon!
+We are planning a social event this quarter on March 1st, 5-6pm. We want to bring together Math, MCSB, and other students together to connect on shared interests across our various departments! Show up, if you are interested in some free food and connecting with us. Please fill out this [interest form](https://docs.google.com/forms/d/e/1FAIpQLSce8sHVn6LCqReWxtQkK_0Th-442_ufrFkRdQF4hY53iglh1A/viewform?usp=sf_link) so we can be sure to have enough food and space for everyone!
+
+---
+# Past Events
 
 ## Machine Learning Journal Club
 The Journal club has been run by Kevin Bui continuously from Spring 2021. Weekly meetings are held to discuss research papers on machine learning. We hope that these meetings will keep you up to speed with the latest topics and trends in machine learning, stimulate interesting discussion, and, in the best case scenario, inspire new ideas and collaboration that would lead to potential research projects. ([Learn more](https://ucisiam.github.io/journalclub))
