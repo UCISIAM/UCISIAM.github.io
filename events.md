@@ -23,6 +23,7 @@ permalink: /events/
 ---
 
 # Upcoming Events 
+---
 
 ## Winter Social Event on March 1st, 5-6pm
 
@@ -30,6 +31,7 @@ We are planning a social event this quarter on March 1st, 5-6pm. We want to brin
 
 ---
 # Past Events
+---
 
 ## Machine Learning Journal Club
 The Journal club has been run by Kevin Bui continuously from Spring 2021. Weekly meetings are held to discuss research papers on machine learning. We hope that these meetings will keep you up to speed with the latest topics and trends in machine learning, stimulate interesting discussion, and, in the best case scenario, inspire new ideas and collaboration that would lead to potential research projects. ([Learn more](https://ucisiam.github.io/journalclub))
