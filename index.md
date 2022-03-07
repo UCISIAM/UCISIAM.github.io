@@ -22,11 +22,11 @@ The UCI Student Society for Industrial and Applied Mathematics (SIAM) Chapter is
 
 ---
 
-# Upcoming Events
+# Upcoming events
 
-## Winter Social Event on March 1st, 5-6pm, @NS2 1201
+## 2022-2023 SIAM Election
 
-UCI’s SIAM Chapter and the Math and MCSB Decade reps are planning an outdoor social this quarter on 3/1, 5-6pm. We want to bring together Math, MCSB, and other students together to connect on shared interests across our various departments! Show up, if you are interested in some free food, connecting with other Math or MCSB-affiliated graduate students, or learning about SIAM or DECADE. Fill out this [interest form](https://docs.google.com/forms/d/e/1FAIpQLSce8sHVn6LCqReWxtQkK_0Th-442_ufrFkRdQF4hY53iglh1A/viewform?usp=sf_link) so we can be sure to have enough food and space for everyone. Please get back to us by February 16th so we have enough time to apply for funding for food from AGS!
+The SIAM chapter at UCI is now looking for people interested in taking a leadership position within the organization for the term Spring 2022 – Winter 2023. The role mainly entails planning and organizing events which can be anything from alumni panels to social events as well as some administrative tasks to keep the club running. If you are interested please fill out this [short form](https://forms.gle/rpHVasES9StC6V6r9) by Thursday March 24th. If you have any questions about the roles feel free to contact the current leadership team!
 
 
 ---
