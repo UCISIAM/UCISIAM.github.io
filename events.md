@@ -25,14 +25,17 @@ permalink: /events/
 # Upcoming Events 
 ---
 
-## Winter Social Event on March 1st, 5-6pm, @NS2 1201
-
-UCI’s SIAM Chapter and the Math and MCSB Decade reps are planning an outdoor social this quarter on 3/1, 5-6pm. We want to bring together Math, MCSB, and other students together to connect on shared interests across our various departments! Show up, if you are interested in some free food, connecting with other Math or MCSB-affiliated graduate students, or learning about SIAM or DECADE. Fill out this [interest form](https://docs.google.com/forms/d/e/1FAIpQLSce8sHVn6LCqReWxtQkK_0Th-442_ufrFkRdQF4hY53iglh1A/viewform?usp=sf_link) so we can be sure to have enough food and space for everyone. Please get back to us by February 16th so we have enough time to apply for funding for food from AGS!
+## Machine Learning Journal Club
+The schedule of the 2022 Winter quarter machine learning journal club weekly meetings can be found [here](https://ucisiam.github.io/journalclub).
 
 
 ---
 # Past Events
 ---
+
+## Winter Social Event on March 1st, 5-6pm, @NS2 1201
+
+UCI’s SIAM Chapter and the Math and MCSB Decade reps are planning an outdoor social this quarter on 3/1, 5-6pm. We want to bring together Math, MCSB, and other students together to connect on shared interests across our various departments! Show up, if you are interested in some free food, connecting with other Math or MCSB-affiliated graduate students, or learning about SIAM or DECADE. Fill out this [interest form](https://docs.google.com/forms/d/e/1FAIpQLSce8sHVn6LCqReWxtQkK_0Th-442_ufrFkRdQF4hY53iglh1A/viewform?usp=sf_link) so we can be sure to have enough food and space for everyone. Please get back to us by February 16th so we have enough time to apply for funding for food from AGS!
 
 ## Machine Learning Journal Club
 The Journal club has been run by Kevin Bui continuously from Spring 2021. Weekly meetings are held to discuss research papers on machine learning. We hope that these meetings will keep you up to speed with the latest topics and trends in machine learning, stimulate interesting discussion, and, in the best case scenario, inspire new ideas and collaboration that would lead to potential research projects. ([Learn more](https://ucisiam.github.io/journalclub))
